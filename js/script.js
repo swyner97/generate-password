@@ -1,5 +1,13 @@
 // Assignment code here
+let resultsEl = document.getElementById('#password');
+let lengthEl = document.getElementById('#output').innerHTML;
+let uppercaseEl = document.getElementById('#uppercase');
+let lowercaseEl = document.getElementById('#lowercase');
+let numericEl = document.getElementById('#numeric');
+let specialCharEl = document.getElementById('#special-chars');
 
+let chars = "0123456789abcdefghijklmnopqrstuvwxyz!@#$%^&*()ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+console.log(lengthEl);
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
