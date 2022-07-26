@@ -3,7 +3,7 @@ Random password generator that uses prompts, captures the data and generates a r
 
 ![Alt text](./assets/password-gen.png)
 
-Uses: 
+Uses: <br>
 *HTML <br>
 *CSS  <br>
 *Javascript <br>
