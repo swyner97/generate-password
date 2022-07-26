@@ -4,8 +4,8 @@ Random password generator that uses prompts, captures the data and generates a r
 ![Alt text](./assets/password-gen.png)
 
 Uses: 
-*HTML
-*CSS 
-*Javascript
+*HTML <br>
+*CSS  <br>
+*Javascript <br>
 
 Check it out here!: https://swyner97.github.io/generate-password/ 
